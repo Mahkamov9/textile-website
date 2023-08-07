@@ -1,0 +1,49 @@
+.aside{
+    padding: 70px 0px;
+    background-color: #F7F2F1;
+}
+
+.aside-subtext{
+    padding-top: 100px;
+    color: #0C4196;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.aside-text{
+    padding-top: 30px;
+    color: #137EE6;
+    font-size: 80px;
+    font-weight: bold;
+    width: 500px;
+    line-height: 85px;
+}
+
+.aside-card{
+    padding-top: 100px;
+}
+
+.aside-card-box{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.aside-card-img{
+    margin-top: 20px;
+    width: 70px;
+    height: 70px;
+}
+
+.aside-card-subtext{
+    padding-top: 35px;
+    color: #137EE6;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.aside-card-text{
+    padding-top: 20px;
+    color: #333335;
+    width: 310px;
+    line-height: 20px;
+}

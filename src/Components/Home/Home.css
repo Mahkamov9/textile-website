@@ -1,0 +1,31 @@
+.home{
+    height: 100vh;
+    background-image: url("https://www.aitex.es/wp-content/uploads/2019/09/textil_tecnologia-textil.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 5s;
+}
+
+.home-img{
+    width: 100%;
+    height: 10px;
+}
+
+
+.home-subtext{
+    padding-top: 120px;
+    text-align: center;
+    color: #fff;
+}
+
+.home-text{
+    margin-top: 20px;
+    padding-bottom: 40px;
+    border-radius: 50px;
+    background-color: #0D418D;
+    padding-top: 50px;
+    color: #fff;
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+}
