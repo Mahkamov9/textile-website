@@ -15,7 +15,12 @@ export default function Article() {
                         <a className='article-right-btn' href="#">Book an Appointment</a>
                     </div>
                     <div className="article-left">
-                        sdfsd
+                        <p className='article-right-subtext'>
+                            We make legal <br /> forms easy.
+                        </p>
+                        <p className='article-right-subtext'>
+                            Accordion +
+                        </p>
                     </div>
                 </div>
         </div>

@@ -1,0 +1,13 @@
+
+.section{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuvHbTfqJHyx6zaCIqwKJLr9LDcHilyEx-KQ&usqp=CAU");
+    background-size: cover;
+    height: 100vh;
+}
+
+.sectionwawe{
+    position: absolute;
+    transform: translate(0%, 117%);
+
+}
+

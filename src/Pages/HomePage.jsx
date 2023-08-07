@@ -4,6 +4,7 @@ import Navbar from '../Components/Navbar/Navbar'
 import About from '../Components/About/About'
 import Aside from '../Components/Aside/Aside'
 import Article from '../Components/Article/Article'
+import Section from '../Components/Section/Section'
 
 export default function HomePage() {
   return (
@@ -12,6 +13,7 @@ export default function HomePage() {
       <About/>
       <Aside/>
       <Article/>
+      <Section/>
     </>
   )
 }
